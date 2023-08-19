@@ -154,6 +154,7 @@ body {
   border-color: #fff;
   background-color: transparent;
   color: #fff;
+  justify-content: space-between;
 }
 
 .main-link-outline:hover {
@@ -269,7 +270,7 @@ body {
 
 .cta-links {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
